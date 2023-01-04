@@ -5,7 +5,7 @@
 
 ## About Optimal Coin Combination
 
-This project as a single page with a form and a single input field that will fulfills a given dollar value. The web page wll take a dollar value as input and interact with an API that computes and returns the optimal coin combination
+This project has a single page with a form along with a single input field that will fulfills a given dollar value. The web page wll take a dollar value as input and interact with an API that computes and returns the optimal coin combination
 
 
 ##  Clone the project
