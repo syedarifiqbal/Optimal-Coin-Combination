@@ -5,13 +5,13 @@
 
 ## About Optimal Coin Combination
 
-This will fulfills a given dollar value. The web page should take a dollar value as input and interact with an API that computes and returns the optimal coin combination
-  
+This project as a single page with a form and a single input field that will fulfills a given dollar value. The web page wll take a dollar value as input and interact with an API that computes and returns the optimal coin combination
+
 
 ##  Clone the project
 
 ``` 
-git clone https://github.com/syedarifiqbal/coins-calculator.git
+git clone https://github.com/syedarifiqbal/Optimal-Coin-Combination.git
 ```
 
 This will clone the project to your system, 
